@@ -32,7 +32,7 @@
 
 <img height="30" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png"/> <strong> MySQL </strong> 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=moisessdelmoro&show_icons=true&theme=dark" alt="CaioHpSouza" /> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CaioHpSouza&show_icons=true&theme=dark" alt="CaioHpSouza" /> 
 </p>
 
 
