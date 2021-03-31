@@ -12,6 +12,10 @@
 
 <h6>Em continuo aprendizado...</h6>
 
+<img height="30" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png"/> <strong> Flutter</strong> 
+
+<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg"/> <strong> React</strong> 
+
 <img height="30" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"/> <strong> Python</strong>
 
 <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg"/> <strong> JavaScript </strong> 
@@ -26,9 +30,9 @@
 
 <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/> <strong> CSS3 </strong> 
 
-<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg"/> <strong> React</strong> 
+<img height="30" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png"/> <strong> MySQL </strong> 
 
-<img height="30" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png"/> <strong> Flutter</strong> 
+
 
 
 ⭐️ From [CaioHpSouza](https://github.com/CaioHpSouza)
