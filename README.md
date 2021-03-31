@@ -4,13 +4,15 @@
     Me chamo <strong>Caio Henrique Pereira Souza</strong> e atualmente sou acadêmica do curso de Engenharia da Computação na Instituto Nacional de Telecomunicações (INATEL).
 </p>
 <h3>ℹ️ Informações gerais 👩‍💻 🏳️‍🌈</h3>
-<strong>Meus pronomes</strong>: Ele/dele 
+ 
 <strong>Pode me chamar de</strong>: Caiao 🙂
 <strong>De onde sou</strong>: Guaxupé - MG - Brasil 🇧🇷
 
 <h3>💻 Sobre tecnologias e afins... 🐍 🌐 👩‍💻</h3>
+
 <h6>Em continuo aprendizado...</h6>
-<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"/> <strong> Python </strong> (💙💙💙💙💙💙)
+
+<img height="30" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"/> <strong> Python</strong> (💙💙💙💙💙💙)
 
 <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg"/> <strong> JavaScript </strong> 
 
