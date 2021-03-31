@@ -12,7 +12,7 @@
 
 <h6>Em continuo aprendizado...</h6>
 
-<img height="30" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"/> <strong> Python</strong> (💙💙💙💙💙💙)
+<img height="30" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"/> <strong> Python</strong>
 
 <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg"/> <strong> JavaScript </strong> 
 
