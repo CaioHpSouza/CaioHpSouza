@@ -1,8 +1,5 @@
 <h1 align="center">👋 print("Olá, Mundo!") </h1> 
 
-<a href="https://https://www.linkedin.com/in/caiohpsouza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-
 <p>
     Me chamo <strong>Caio Henrique Pereira Souza</strong> e atualmente sou acadêmica do curso de Engenharia da Computação na Instituto Nacional de Telecomunicações (INATEL).
 </p>
@@ -33,3 +30,5 @@
 
 
 ⭐️ From [CaioHpSouza](https://github.com/CaioHpSouza)
+
+<a href="https://https://www.linkedin.com/in/caiohpsouza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
