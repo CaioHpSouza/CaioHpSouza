@@ -18,8 +18,6 @@
 
 <img height="30" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"/> <strong> Python</strong>
 
-<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg"/> <strong> React</strong> 
-
 <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/2807/2807253.svg"/> <strong> C </strong> 
 
 <img height="30" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"/> <strong> C++ </strong> 
